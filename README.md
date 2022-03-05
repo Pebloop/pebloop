@@ -18,19 +18,19 @@
 
 <table>
     <tr>
-        <td>
+        <td width=20%>
             <h3> Contact </h3>
         </td>
-        <td>
+        <td width=20%>
             <h3> Social </h3>
         </td>
-        <td>
+        <td width=20%>
             <h3> Coding </h3>
         </td>
-        <td>
+        <td width=20%>
             <h3> Art </h3>
         </td>
-        <td>
+        <td width=20%>
             <h3> Video </h3>
         </td>
     </tr>
