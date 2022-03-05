@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-    <td valign="center" width=56%>
+    <td valign="center" width=65%>
         💻 I'm a french girl in her 21. I am a student in computer science
         <br/><br/>
         🎨 I like to code and to draw. I also love to learn and discover stuffs, so I tend to do a lot of diverse things.
