@@ -35,12 +35,12 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <td width=20%>
 <p><img src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/new-email-icon.png" width=20px title="email"/>   pebloop@outlook.com</p>
 
 <p><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=20px title="Discord"/>   Pebloop#7007</p>
         </td>
-        <td>
+        <td width=20%>
 
 <p><a href="https://www.linkedin.com/in/pebloop/" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width=20px>   Alexia Legrand</a></p>
 
@@ -49,19 +49,19 @@
 <a href="https://twitter.com/Pebloop" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/640px-Twitter_Bird.svg.png" width=20px>  pebloop</a>
 
 </td>
-        <td>
+        <td width=20%>
 
 <p><a href="https://www.codingame.com/profile/b0b5ffe6a96eab6334deed3b9e6142ab7562541" title="Codingame"><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width=20px>  pebloop</a></p>
 
 <p><a href="https://www.root-me.org/Pebloop" title="RootMe"><img src="https://pbs.twimg.com/profile_images/925763062837252096/43MyHYBN_400x400.jpg" width=20px>  pebloop</a></p>
 
 </td>
-        <td>
+        <td width=20%>
 
 <p><a href="https://www.deviantart.com/pebloop" title="DeviantArt"><img src="https://cdn-icons-png.flaticon.com/512/889/889091.png" width=20px>  pebloop</a></p>
 
 </td>
-        <td>
+        <td width=20%>
 
 <p><a href="https://www.deviantart.com/pebloop" title="Youtube"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width=20px>  pebloop</a></p>
 
