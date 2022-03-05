@@ -16,7 +16,7 @@
 ## 💻 About my code
 ## 📧 Social media
 
-<table>
+<table align="center">
     <tr>
         <td>
             <h3> Contact </h3>
@@ -33,10 +33,13 @@
         <td>
             <h3> Video </h3>
         </td>
+        <td>
+            <h3> Website </h3>
+        </td>
     </tr>
     <tr>
         <td>
-<p><img src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/new-email-icon.png" width=20px title="email"/>   pebloop@outlook.com</p>
+            <p><img src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/new-email-icon.png" width=20px title="email"/>   pebloop@outlook.com</p>
 
 <p><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=20px title="Discord"/>   Pebloop#7007</p>
         </td>
@@ -66,6 +69,13 @@
 <p><a href="https://www.deviantart.com/pebloop" title="Youtube"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width=20px>  pebloop</a></p>
 
 <p><a href="https://www.deviantart.com/pebloop" title="Twitch"><img src="https://icones.pro/wp-content/uploads/2021/05/symbole-twitch-logo-icone-violet.png" width=20px>  pebloop</a></p>
+
+</td>
+<td>
+
+<p><a href="https://pebloop.dev/" title="CodeNDragon"><img src="https://pebloop.dev/images/tempo_maintenance.png" width=20px>  Code'n Dragons</a></p>
+
+</td>
 
 </tr>
 </table>
