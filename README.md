@@ -1,8 +1,8 @@
-### Hoya ! The name's Pebloop 👋
+<h1> Hoya ! The name's Pebloop 👋 </h1>
 
-I'm a french girl in her 21. I am a student in computer science.
+💻 I'm a french girl in her 21. I am a student in computer science
 <br/>
-I like to code and to draw. I also love to learn and discover stuffs, so I tend to do a lot of diverse things.
+🎨 I like to code and to draw. I also love to learn and discover stuffs, so I tend to do a lot of diverse things.
 <br/>
-I'm also a huuuuuuuuugggeee dragon lover ! I'm really passionate about them !
+🐉 I'm also a huuuuuuuuugggeee dragon lover ! I'm really passionate about them !
 
