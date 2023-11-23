@@ -64,6 +64,8 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
 
 🔵 [My personnal website](https://pebloop.dev/)
 
+🔵 [Pebloop system](https://github.com/Pebloop/pebloop_system) (My custom design system, for svelte.)
+
 🔵 [Cave Breaker](https://github.com/Pebloop/Cave-Breaker) (A match 3 game parody.)
 
 🔳 A persona editor (Because that's be so cool and sound fun to do)
