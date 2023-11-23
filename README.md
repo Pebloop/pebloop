@@ -132,4 +132,4 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
 
 ## Other
 
-<img src="pp.gif" width=20px/> pp by <a href="https://twitter.com/DIGNOTIONS">@DIGNOTIONS</href>
+pp by <a href="https://twitter.com/DIGNOTIONS">@DIGNOTIONS</href>
