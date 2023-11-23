@@ -64,9 +64,7 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
 
 🔵 [My personnal website](https://pebloop.dev/)
 
-🔵 [A standalone of Bastion breach (a card game)](https://pebloop.dev/bastionbreach/)
-
-🔵 Edagile, a discord bot linked to Jira
+🔵 [Cave Breaker](https://github.com/Pebloop/Cave-Breaker) (A match 3 game parody.)
 
 🔳 A persona editor (Because that's be so cool and sound fun to do)
 
@@ -74,9 +72,9 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
 
 🔳 A blog (I'd like to)
 
-⭕ [Cave Breaker](https://github.com/Pebloop/Cave-Breaker) (A match 3 game parody. Paused until further notice.)
-
 ✅ [DragonLib](https://github.com/Pebloop/libdragon) (A C game engine, created for school projects, years ago)
+
+✅ [Edagile](https://github.com/Pebloop/Edagile), a discord bot linked to Jira
 
     You can also take a look at my repositories !
 
@@ -111,7 +109,7 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
         <td>
             <p><a href="https://www.linkedin.com/in/pebloop/" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width=20px>   Alexia Legrand</a></p>
             <p><a href="https://www.instagram.com/alexleg33/" title="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=20px>   alexleg33</a></p>
-            <a href="https://twitter.com/Pebloop" title="Twitter"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/640px-Twitter_Bird.svg.png" width=20px>  pebloop</a>
+            <a href="https://bsky.app/profile/pebloop.bsky.social" title="Twitter"><img src="https://play-lh.googleusercontent.com/C5Uh9fZ4hAFm7SKrfDBdDZKgvDmDQO06aIBHlmPm3nLubNIz0RIl86E0CtI0RCHvoQva=w240-h480-rw" width=20px>  pebloop</a>
         </td>
         <td>
             <p><a href="https://www.codingame.com/profile/b0b5ffe6a96eab6334deed3b9e6142ab7562541" title="Codingame"><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width=20px>  pebloop</a></p>
@@ -125,7 +123,7 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
             <p><a href="https://www.deviantart.com/pebloop" title="Twitch"><img src="https://icones.pro/wp-content/uploads/2021/05/symbole-twitch-logo-icone-violet.png" width=20px>  pebloop</a></p>
         </td>
         <td>
-            <p><a href="https://pebloop.dev/" title="CodeNDragon"><img src="https://pebloop.dev/images/tempo_maintenance.png" width=20px>  Code'n Dragons</a></p>
+            <p><a href="https://pebloop.dev/" title="CodeNDragon"><img src="https://www.pebloop.dev/favicon.png" width=20px>  Pebloop.dev</a></p>
         </td>
     </tr>
 </table>
