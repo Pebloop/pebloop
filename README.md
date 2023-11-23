@@ -104,11 +104,11 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
     <tr>
         <td>
             <p><img src="https://olc-wordpress-assets.s3.amazonaws.com/uploads/2020/05/new-email-icon.png" width=20px title="email"/>   pebloop@outlook.com</p>
-            <p><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=20px title="Discord"/>   Pebloop#7007</p>
+            <p><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width=20px title="Discord"/>   pebloop</p>
         </td>
         <td>
             <p><a href="https://www.linkedin.com/in/pebloop/" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width=20px>   Alexia Legrand</a></p>
-            <p><a href="https://www.instagram.com/alexleg33/" title="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=20px>   alexleg33</a></p>
+            <p><a href="https://www.instagram.com/pebloop/" title="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=20px>   pebloop</a></p>
             <a href="https://bsky.app/profile/pebloop.bsky.social" title="Twitter"><img src="https://play-lh.googleusercontent.com/C5Uh9fZ4hAFm7SKrfDBdDZKgvDmDQO06aIBHlmPm3nLubNIz0RIl86E0CtI0RCHvoQva=w240-h480-rw" width=20px>  pebloop</a>
         </td>
         <td>
