@@ -112,7 +112,7 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
             <p><a href="https://www.linkedin.com/in/pebloop/" title="LinkedIn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width=20px>   Alexia Legrand</a></p>
             <a href="https://www.showwcase.com/pebloop" title="Showwcase"><img src="https://play-lh.googleusercontent.com/XOzPJm3Uvfe8-xoLuGKCCIz2ssJp0GBspMa7jnvCbHAMxzJbvxxO84zqNGmc6VhGE0dQ" width=20px>  pebloop</a>
             <p><a href="https://www.instagram.com/pebloop/" title="Instagram"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width=20px>   pebloop</a></p>
-            <a href="https://bsky.app/profile/pebloop.bsky.social" title="Twitter"><img src="https://play-lh.googleusercontent.com/C5Uh9fZ4hAFm7SKrfDBdDZKgvDmDQO06aIBHlmPm3nLubNIz0RIl86E0CtI0RCHvoQva=w240-h480-rw" width=20px>  pebloop</a>
+            <a href="https://bsky.app/profile/pebloop.bsky.social" title="Bluesky"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width=20px>  pebloop</a>
         </td>
         <td>
             <p><a href="https://www.codingame.com/profile/b0b5ffe6a96eab6334deed3b9e6142ab7562541" title="Codingame"><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width=20px>  pebloop</a></p>
