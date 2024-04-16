@@ -64,13 +64,13 @@ I have plenty projects I'm working on, and more so I'd like to do ! Check them o
 
 🔵 [My personnal website](https://pebloop.dev/)
 
-🔵 [Pebloop system](https://github.com/Pebloop/pebloop_system) (My custom design system, for svelte.)
+⭕ [Pebloop system](https://github.com/Pebloop/pebloop_system) (My custom design system, for svelte.)
 
 🔵 [Cave Breaker](https://github.com/Pebloop/Cave-Breaker) (A match 3 game parody.)
 
-🔳 A persona editor (Because that's be so cool and sound fun to do)
+🔵 [Wordly Universe](https://github.com/Pebloop/wordly) (A world building webapp (Cannot find anything that fit my need...))
 
-🔳 A world building software (Cannot find anything that fit my need...)
+🔵 [Bird RPG]() (A VR RPG where you play a bird.)
 
 🔳 A blog (I'd like to)
 
